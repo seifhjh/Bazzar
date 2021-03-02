@@ -3,12 +3,12 @@
 
 # ScreenShot
 
-<img src="screenshot/s0.png" width="400">
-<img src="screenshot/s1.png" width="400"><img src="screenshot/s2.png" width="400">
-<img src="screenshot/s3.png" width="400"><img src="screenshot/s4.png" width="400">
-<img src="screenshot/s5.png" width="400"><img src="screenshot/s6.png" width="400">
-<img src="screenshot/s7.png" width="400"><img src="screenshot/s8.png" width="400">
-<img src="screenshot/s9.png" width="400">
+<img src="screenshot/s0.png" width="380">
+<img src="screenshot/s1.png" width="380"><img src="screenshot/s2.png" width="380">
+<img src="screenshot/s3.png" width="380"><img src="screenshot/s4.png" width="380">
+<img src="screenshot/s5.png" width="380"><img src="screenshot/s6.png" width="380">
+<img src="screenshot/s7.png" width="380"><img src="screenshot/s8.png" width="380">
+<img src="screenshot/s9.png" width="380">
 
 
 
